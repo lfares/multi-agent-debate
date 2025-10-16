@@ -84,32 +84,7 @@ The system tracks:
 
 ## Example Output
 
-```
-🎭 Multi-Agent Debate Demo
-========================================
-🤖 Initializing debate system...
-📝 Topic: Should libraries invest more in digital resources or physical books?
-
-🚀 Starting debate (2 agents, 2 rounds)...
-----------------------------------------
-
-🔄 Round 1
-----------------------------------------
-🤖 Researcher is thinking...
-📝 Researcher: My position is that libraries should strategically increase investment in digital resources...
-🤖 Critic is thinking...
-📝 Critic: While digital resources have benefits, we must consider the limitations...
-
-📊 RESULTS
-========================================
-⏱️  Execution Time: 24.18 seconds
-🎯 Quality Scores:
-   Evidence: 0.5/5.0
-   Feasibility: 1.0/5.0
-   Risks: 0.0/5.0
-   Clarity: 5.0/5.0
-🤝 Convergence: Yes
-```
+See `EXAMPLE_RESULT.md` for actual terminal output showing the system working with real AI-generated content.
 
 ## Configuration
 
