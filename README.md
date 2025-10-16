@@ -40,8 +40,8 @@ A sophisticated multi-agent debate system that orchestrates AI agents with disti
 - `demo.py` - Quick demonstration script
 - `run_experiments.py` - Full experiment suite
 - `experiment_report.md` - Latest experiment results
+- `EXAMPLE_RESULT.md` - Actual terminal output showing working system
 - `ARCHITECTURE.md` - Detailed system design
-- `ASSIGNMENT_SUMMARY.md` - Assignment compliance documentation
 
 ## System Architecture
 
@@ -126,9 +126,9 @@ You can customize the debate system by modifying:
 - Google Gemini API key
 - Required packages listed in `requirements.txt`
 
-## Assignment Compliance
+## Working System Demonstration
 
-See `ASSIGNMENT_SUMMARY.md` for how this system meets the assignment requirements.
+See `EXAMPLE_RESULT.md` for actual terminal output showing the system working with real AI-generated content.
 
 ## System Architecture
 
